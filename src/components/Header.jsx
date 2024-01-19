@@ -5,7 +5,7 @@ export default function Header() {
     <header className="">
       <BackgroundImage />
       <h1 className="first-heading">
-        Word <span className="first-heading--thin">Analytics</span>
+        Words <span className="first-heading--thin">Counter</span>
       </h1>
     </header>
   );
